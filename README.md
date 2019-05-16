@@ -1,1 +1,7 @@
-# relacionamento-table
+## relacionamento-de-tabelas
+
+```
+@OneToMany
+@ManyToOne
+@ManyToMany
+````

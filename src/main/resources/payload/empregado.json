@@ -1,0 +1,8 @@
+{
+  "nome": "Daniel",
+      "salario": "3900",
+
+         "departamento": {
+       "id": 1
+  }
+}
